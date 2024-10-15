@@ -1,0 +1,52 @@
+.navWrapper{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+}
+.preNav{
+    display: flex;
+    /* border: 1px solid red; */
+    background-color: pink;
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.navBar{
+    display: grid;
+    grid-template-columns: 1fr auto 1fr; /* Las dos primeras y última columna se ajustan */
+    align-items: center;
+    padding: 10px;
+    /* border-bottom: 1px outset rgb(226, 226, 226); */
+    box-shadow: -1px 6px 4px -5px rgba(126, 126, 126, 0.75);
+
+}
+
+
+.navLinks{
+    display: flex;
+    gap: 40px;
+    font-weight: 600;
+    justify-content: center;
+    /* border: 1px solid red; */
+
+}
+
+
+.navLogo{
+    width: 160px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+}
+
+.navIcons{
+    /* border: 1px solid red; */
+    display: flex;
+    gap:30px;
+    justify-content: end;
+    padding-right: 50px;
+}
