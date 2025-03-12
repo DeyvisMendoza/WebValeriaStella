@@ -10,11 +10,6 @@ Este es un emocionante proyecto desarrollado con las siguientes tecnologías:
 💡 **Descripción del Proyecto:**
 Este proyecto ha sido creado con el objetivo de proporcionar una experiencia fluida y moderna en el desarrollo web. Utiliza las mejores prácticas de React junto con TypeScript para garantizar escalabilidad y eficiencia.
 
-👥 **Colaboradores:**
-- [Nombre del colaborador 1](https://github.com/usuario1)
-- [Nombre del colaborador 2](https://github.com/usuario2)
-- [Nombre del colaborador 3](https://github.com/usuario3)
-
 📜 **Licencia:**
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
